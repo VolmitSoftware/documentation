@@ -1,15 +1,16 @@
 ---
-description: Click on a plugin to access their respective docs.
+description: Welcome to the official VehiclesPlus Guide!
 ---
 
-# Volmit Docs Directory
+# VehiclesPlus
 
-### [Iris](https://volmitsoftware.gitbook.io/iris/)
+### What's VehiclesPlus?
 
-### [React](https://volmitsoftware.gitbook.io/react)
+VehiclesPlus adds real custom vehicles \(cars, planes, helicopters, bikes, boats and more\) to your server. Through the use of a [resource pack](https://github.com/VolmitSoftware/VehiclesPlus/tree/master/Resource%20Packs), you can create convincing vehicles that work like the real thing.
 
-### [VehiclesPlus](https://volmitsoftware.gitbook.io/vehiclesplus)
+![](.gitbook/assets/spaces_-mllxhwc6xrxdkar_4dj_avatar-rectangle-1611251091181.png)
 
-### [Gloss](https://volmitsoftware.gitbook.io/gloss)
+### Download VehiclesPlus on [Spigot](https://www.spigotmc.org/resources/vehiclesplus.70523/) or [Polymart](https://polymart.org/resource/vehiclesplus.633)
 
-Test!
+We've created several sections of getting started with the fundamentals of VehiclesPlus and advanced topics about VehiclesPlus.
+
