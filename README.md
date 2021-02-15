@@ -16,5 +16,5 @@ This wiki is a **work in progress**. If something is missing, please visit our [
 
 ![](.gitbook/assets/spaces_-l_xwfg8fboiuh9vrnpe_avatar.png)
 
-## [Download Gloss on Spigot](https://www.spigotmc.org/resources/gloss-legendary-holograms-boards.65840/)
+## Download Gloss on [Spigot](https://www.spigotmc.org/resources/gloss-legendary-holograms-boards.65840/)
 

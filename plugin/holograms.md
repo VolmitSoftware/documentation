@@ -16,7 +16,7 @@ Holograms are fairly easy to work with. The base command is **/hologram** or **/
 
 ### Creating Holograms
 
-Holograms can easily be created with the following: 
+Holograms can easily be created with the following:
 
 {% hint style="success" %}
 /holo new &lt;name&gt;
@@ -42,7 +42,7 @@ Once you have a spot, simply left click or press F \(if you are on 1.9+\) to pla
 
 ### Hologram Management
 
-You can easily find and manage holograms via GUI. Simply use: 
+You can easily find and manage holograms via GUI. Simply use:
 
 {% hint style="success" %}
 /holo list
@@ -54,11 +54,11 @@ The descriptions for each node in the gui informs you about the world the hologr
 
 ### Editing Holograms
 
-There are three ways to edit a hologram, and certain ways may be better suited for your situation than others. 
+There are three ways to edit a hologram, and certain ways may be better suited for your situation than others.
 
 {% tabs %}
 {% tab title="Book Editing" %}
-Editing via book has the best of both worlds when it comes to ease of use and power. However it does have certain limitations such as rewriting a word in a line. Simply look at a hologram and use: 
+Editing via book has the best of both worlds when it comes to ease of use and power. However it does have certain limitations such as rewriting a word in a line. Simply look at a hologram and use:
 
 {% hint style="success" %}
 /holo edit
@@ -85,6 +85,4 @@ If you need to make small changes that would be annoying via book editing \(sinc
 Another option is by editing the hologram descriptor in Gloss's data folder located at **Gloss/holograms/&lt;name&gt;.json.** From here, any changes you make are magically hotloaded directly into the hologram \(you dont need to reload after editing the hologram file\).
 {% endtab %}
 {% endtabs %}
-
-
 

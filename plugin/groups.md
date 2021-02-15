@@ -8,7 +8,7 @@ description: >-
 
 ## Groups Folder
 
-The groups folder is located in Gloss's data folder \(Gloss/groups\). In this folder, by default, it will contain a  help.txt file explaining different parameters you can use.
+The groups folder is located in Gloss's data folder \(Gloss/groups\). In this folder, by default, it will contain a help.txt file explaining different parameters you can use.
 
 ### Creating a custom group
 

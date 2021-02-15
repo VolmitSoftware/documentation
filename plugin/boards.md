@@ -14,7 +14,7 @@ The base command for boards is **/board**
 
 ### Creating Boards
 
-To create a board, simply use: 
+To create a board, simply use:
 
 {% hint style="success" %}
 /board new &lt;name&gt;
@@ -34,19 +34,19 @@ If you only need a single board for everyone, you can set the board to the defau
 /board default &lt;name&gt;
 {% endhint %}
 
-However, if you wish to show multiple groups different boards via your permission system, you should instead create gloss groups and set the group's default board to different boards. 
+However, if you wish to show multiple groups different boards via your permission system, you should instead create gloss groups and set the group's default board to different boards.
 
 #### [Learn how to make Gloss Groups](groups.md)
 
 ### Showing & Hiding Boards
 
-You can hide the current board with 
+You can hide the current board with
 
 {% hint style="success" %}
 /board hide
 {% endhint %}
 
-And show a specific board with 
+And show a specific board with
 
 {% hint style="success" %}
 /board show &lt;name&gt;
@@ -68,5 +68,5 @@ You can assign a permission to any board so that even if the board is defaulted 
 /board permit &lt;board&gt; &lt;permission&gt;
 {% endhint %}
 
-For permission names, give it a single node. For example using **/board permit &lt;board&gt; mortal** Would prevent anyone from using &lt;board&gt; without the permission **gloss.board.mortal.** 
+For permission names, give it a single node. For example using **/board permit &lt;board&gt; mortal** Would prevent anyone from using &lt;board&gt; without the permission **gloss.board.mortal.**
 

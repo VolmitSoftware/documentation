@@ -28,6 +28,6 @@ If you use a url `&hhttps://google.com&iGoogle&r` it will send the url to the pl
 {% endhint %}
 
 {% hint style="info" %}
-If you use a command \(starting with a `/`\)  such as `&h/shop&iOpen Shop&r` it will make the player run the command.
+If you use a command \(starting with a `/`\) such as `&h/shop&iOpen Shop&r` it will make the player run the command.
 {% endhint %}
 

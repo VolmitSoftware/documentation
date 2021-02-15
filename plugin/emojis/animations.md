@@ -8,7 +8,7 @@ description: >-
 
 ## Understanding Animations
 
-Gloss animations are symmetrical. This means that you add "frames" of text and set a framerate. Every frame in the animation will animate under the specified framerate. This allows gloss to produce very high or fine tuned framerates without the need of actually ticking them. 
+Gloss animations are symmetrical. This means that you add "frames" of text and set a framerate. Every frame in the animation will animate under the specified framerate. This allows gloss to produce very high or fine tuned framerates without the need of actually ticking them.
 
 ### Creating Animations
 
@@ -64,7 +64,7 @@ Descend moves up the list from the bottom and wraps back to the bottom after it 
 {% endtab %}
 
 {% tab title="ASCEND\_DESCEND" %}
-Starts at the top and moves down the list to the bottom, then moves back to the top. 
+Starts at the top and moves down the list to the bottom, then moves back to the top.
 
 * ONE
 * TWO

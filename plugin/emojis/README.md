@@ -19,11 +19,11 @@ Any emoji can be used using `:emoji:` . Just like in discord. However some emoji
 You can tab-complete emojis. For example typing in `:air` and hitting tab will tab-complete to the airplane emoji.
 {% endhint %}
 
-You can list emojis ingame via `/gloss emoji` 
+You can list emojis ingame via `/gloss emoji`
 
 ## Creating Emojis
 
-You can easily create emojis. Here is an example emoji 
+You can easily create emojis. Here is an example emoji
 
 ```javascript
 {

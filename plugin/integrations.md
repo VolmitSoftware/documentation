@@ -16,13 +16,13 @@ Gloss also offers MVDWPlaceholders in holograms boards, tablist and anywhere els
 
 ## Holographic Displays
 
-Gloss offers a converter for your existing Holographic Displays holograms. To convert your existing holographic displays to gloss holograms, use 
+Gloss offers a converter for your existing Holographic Displays holograms. To convert your existing holographic displays to gloss holograms, use
 
 `/gloss convert hd`
 
 ## CMI
 
-Gloss offers a converter for your existing CMI holograms. To convert them use 
+Gloss offers a converter for your existing CMI holograms. To convert them use
 
 `/gloss convert cmi`
 
@@ -32,7 +32,7 @@ Gloss will use LightAPI if it is installed to emit light on holograms to make th
 
 ## DeluxeChat
 
-Gloss uses the chat for formatting emojis and getting information from chat bubbles. Gloss fully supports DeluxeChat. 
+Gloss uses the chat for formatting emojis and getting information from chat bubbles. Gloss fully supports DeluxeChat.
 
 ## FeatherBoard
 
