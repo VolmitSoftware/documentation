@@ -1,15 +1,20 @@
 ---
-description: Click on a plugin to access their respective docs.
+description: Welcome to the official Gloss Guide
 ---
 
-# Volmit Docs Directory
+# Get Started
 
-### [Iris](https://volmitsoftware.gitbook.io/iris/)
+## What's Gloss?
 
-### [React](https://volmitsoftware.gitbook.io/react)
+PLACEHOLDER
 
-### [VehiclesPlus](https://volmitsoftware.gitbook.io/vehiclesplus)
+It requires [Mortar](https://www.spigotmc.org/resources/mortar.65761/) but is easy to use. Just drag and drop the plugins into your server
 
-### [Gloss](https://volmitsoftware.gitbook.io/gloss)
+{% hint style="warning" %}
+This wiki is a **work in progress**. If something is missing, please visit our [Discord ](https://discord.com/invite/3xxPTpT)server.
+{% endhint %}
 
-Test!
+![](.gitbook/assets/spaces_-l_xwfg8fboiuh9vrnpe_avatar.png)
+
+## [Download Gloss on Spigot](https://www.spigotmc.org/resources/gloss-legendary-holograms-boards.65840/)
+
