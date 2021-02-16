@@ -26,7 +26,7 @@
 * [Samplers](plugin/samplers.md)
 * [FAQ](plugin/faq.md)
 
-## Links <a id="have-a-question"></a>
+## Links
 
 * [Need Support? - Discord](https://discord.com/invite/3xxPTpT)
 * [Bug Tracker](https://github.com/VolmitSoftware/React/issues)
