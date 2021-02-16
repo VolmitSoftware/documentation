@@ -35,7 +35,7 @@ In your `build.gradle` file, add the following lines to add the Volmit repositor
 
 ```groovy
 repositories {
-	maven { url 'http://repo.volmit.com/repository/volmit/' }
+    maven { url 'http://repo.volmit.com/repository/volmit/' }
 }
 ```
 

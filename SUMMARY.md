@@ -2,6 +2,7 @@
 
 * [VehiclesPlus](README.md)
 * [Getting Started](getting-started.md)
+* [FAQ](faq.md)
 
 ## Setup
 
@@ -25,12 +26,9 @@
 * [Create fuels \(WIP\)](custom-vehicle-models/create-fuels-wip.md)
 * [Spawning vehicle parts \(WIP\)](custom-vehicle-models/spawning-vehicle-parts-wip.md)
 
-## Troubleshooting & Links <a id="faq-and-links"></a>
-
----
+## Links
 
 * [Bug Tracker](https://github.com/VolmitSoftware/VehiclesPlus/issues)
-* [Troubleshooting](troubleshooting.md)
 * [Spigot](https://www.spigotmc.org/resources/vehiclesplus.70523/)
 * [Polymart](https://polymart.org/resource/vehiclesplus.633)
 * [Need Support? - Discord](https://discord.gg/gvKjG9C)

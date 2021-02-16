@@ -4,7 +4,7 @@ description: A list of commands and how to use them
 
 # Commands
 
-##  Vehicles Commands \(/vehicles\)
+## Vehicles Commands \(/vehicles\)
 
 Aliases: `/vp`, `/vehicle`, `/v`
 
@@ -16,7 +16,7 @@ Display a list of the loaded vehicles across the server.
 /v list
 ```
 
- **Permission:** vp.admin.list
+**Permission:** vp.admin.list
 
 ### /v give
 
@@ -26,7 +26,7 @@ Give a vehicle to a player.
 /v give (player) (vehicle) [red] [green] [blue]
 ```
 
- **Permission:** vp.admin.give
+**Permission:** vp.admin.give
 
 | Parameter | Description | Example | Default |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Give a vehicle to a player.
 | green | \(Optional\) A value between 0 and 255 for the green value of the vehicle | 150 | 255 |
 | blue | \(Optional\) A value between 0 and 255 for the blue value of the vehicle | 150 | 255 |
 
-### /v garage 
+### /v garage
 
 Open your vehicle garage.
 
@@ -86,8 +86,6 @@ Display more in-depth info about a vehicle.
 
 **Permission:** vp.admin.info
 
-####  
-
 ## Fuel Commands \(/fuel\)
 
 Aliases: `/vpfuel`, `/vpf`, `/fuels`
@@ -131,8 +129,6 @@ Open the fuel shop.
 ```
 
 **Permission:** vp.fuel.shop
-
-####  
 
 ## Addon Commands \(/addon\)
 

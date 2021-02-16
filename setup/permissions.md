@@ -86,7 +86,7 @@ On the `buyPermission` line, you can customize the permission that players/group
 
 _This is a default permission, and can be changed per every base vehicle._  
 Players with this permission are able to enter this vehicle from the shop.  
-If `enterWithoutRidePermission` ****is enabled for this vehicle, the player can join the non-steer seats without the permission.
+If `enterWithoutRidePermission` _\*\*_is enabled for this vehicle, the player can join the non-steer seats without the permission.
 
 Example:
 

@@ -24,7 +24,7 @@ Do not use `/reload` to reload your server! VehiclesPlus, and many other plugins
 
 ## Installing the Resource Pack
 
-VehiclesPlus makes use of resource packs to display the 3D models of a vehicle. 
+VehiclesPlus makes use of resource packs to display the 3D models of a vehicle.
 
 1. Because Minecraft changes resource pack formats quite often, we have designed a few example resource packs for your convenience. You can download the version that matches your server version [here](https://github.com/relavis/VehiclesPlus/tree/master/Resource%20Packs). 
 2. Once you have downloaded the version that corresponds to your server version, you must upload the resource pack as a `.zip` file to a file sharing site of your choice, such as [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com), or similar.

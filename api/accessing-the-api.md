@@ -56,5 +56,3 @@ private boolean hasCooldown(Player driver) {
 }
 ```
 
-
-

@@ -39,5 +39,3 @@ The name will be the name of the fuel
 
 Restart the server
 
-
-

@@ -6,11 +6,11 @@ description: A tutorial on how to add pre-made vehicles to your server
 
 ## Finding New Vehicles
 
-To find quality vehicles to download, visit our affiliated sites. Both of these websites are owned by members of the VehiclesPlus community. 
+To find quality vehicles to download, visit our affiliated sites. Both of these websites are owned by members of the VehiclesPlus community.
 
-{% embed url="https://www.bkdev.net/index.php?resources/" %}
+{% embed url="https://www.bkdev.net/index.php?resources/" caption="" %}
 
-{% embed url="https://www.sebxter.pl" %}
+{% embed url="https://www.sebxter.pl" caption="" %}
 
 ## Installing New Vehicles
 

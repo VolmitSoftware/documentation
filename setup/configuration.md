@@ -157,7 +157,7 @@ sounds:
 
 ### Understanding sounds.yml
 
-Each vehicle can have its own sound effects associated with it. Currently, the example resource pack only provides sounds for the example car. 
+Each vehicle can have its own sound effects associated with it. Currently, the example resource pack only provides sounds for the example car.
 
 There are **six** different types of sounds that can be made during a vehicle's motion:
 
@@ -188,8 +188,6 @@ Sound produced when a vehicle is driving at a near-constant speed.
 #### slowingdown
 
 Sound produced when a car is slowing down.
-
-
 
 The `sound` value corresponds to a specific sound file found in the resource pack. Additionally, the `duration` value corresponds to the sound's duration.
 
