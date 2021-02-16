@@ -28,8 +28,8 @@
 
 ## Links <a id="have-a-question"></a>
 
+* [Need Support? - Discord](https://discord.com/invite/3xxPTpT)
 * [Bug Tracker](https://github.com/VolmitSoftware/React/issues)
 * [Spigot](https://www.spigotmc.org/resources/react-smart-server-performance.21057/)
 * [Polymart](https://polymart.org/resource/react-smart-server-performance.702)
-* [Need Support? - Discord](https://discord.gg/uGEuJrUm5T)
 

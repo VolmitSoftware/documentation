@@ -33,5 +33,3 @@ The default position selector is **@c:\*** or all loaded chunks in all worlds
 | purge-chunks |
 | pc |
 
-
-

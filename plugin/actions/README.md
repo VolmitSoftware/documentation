@@ -32,7 +32,7 @@ Action selectors allow you to control actions in a fine tuned way.
 
 ### Positional Selectors
 
-Positional selectors allow you to control the position and area that an action will fire in. Positional selectors work on a chunk grid. This means you select a position based on an area of chunks. The default is every chunk in every world. You can tweak this like so. 
+Positional selectors allow you to control the position and area that an action will fire in. Positional selectors work on a chunk grid. This means you select a position based on an area of chunks. The default is every chunk in every world. You can tweak this like so.
 
 {% tabs %}
 {% tab title="This Chunk" %}
@@ -79,7 +79,7 @@ You can reference a specific chunk instead of **"this"** or **"look"** by specif
 ```
 
 {% hint style="info" %}
-Note that you cannot specify a radius such as ~~@c:ww.15,13+3~~ __as this is not allowed
+Note that you cannot specify a radius such as ~~@c:ww.15,13+3~~ \_\_as this is not allowed
 {% endhint %}
 
 You can specify every **loaded** chunk in a given world also by using a star \(asterisk\)
@@ -103,7 +103,7 @@ Time selectors allow you to control how long an action should run for
 | Measurement | Example | Suffix |
 | :--- | :--- | :--- |
 | Game Ticks | `@t:8t` | t |
-| Milliseconds  | `@t:150ms` | ms |
+| Milliseconds | `@t:150ms` | ms |
 | Seconds | `@t:5s` | s |
 | Minutes | `@t:2m` | m |
 | Hours | `@t:3h` | h |
@@ -137,6 +137,4 @@ Not literally means not and is represented by the **"!"** symbol
 > Specifies a radius of 3 chunks around your location, but SUBTRACTS the chunk you are looking at out of the selection. The "&!" means A AND NOT B \(or but not\)
 {% endtab %}
 {% endtabs %}
-
-
 

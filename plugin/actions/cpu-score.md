@@ -3,12 +3,12 @@
 ## CPU Score
 
 {% hint style="warning" %}
-The CPU Score action pushes the server's processor on a separate thread from the game. If you are utilizing most of your processor cores, this action will significantly affect server performance, and result in a lower score. 
+The CPU Score action pushes the server's processor on a separate thread from the game. If you are utilizing most of your processor cores, this action will significantly affect server performance, and result in a lower score.
 
 **Run this action for a smaller increment of time first** to ensure it wont affect server performance while benchmarking for longer periods of time.
 {% endhint %}
 
-The cpu score action benchmarks your processor and results in three values after the benchmark has completed. 
+The cpu score action benchmarks your processor and results in three values after the benchmark has completed.
 
 `MIN <- SPREAD -> MAX`
 

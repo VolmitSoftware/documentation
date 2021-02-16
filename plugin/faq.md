@@ -62,13 +62,13 @@ However you could improve this goal by adding a condition to only purge drops if
     "description": "Purges drops",
     "interval": "1m",
     "conditions": [
-    	"entitydrop>250"
+        "entitydrop>250"
     ],
     "enabled": true
 }
 ```
 
- This would only run every minute, checking if the amount of drops is greater than 250, if it is then the purger runs that minute.
+This would only run every minute, checking if the amount of drops is greater than 250, if it is then the purger runs that minute.
 
 ## Does React work with MythicMobs?
 
@@ -164,7 +164,7 @@ Negative selections allow you to create a selection, and subtract out something 
 
 ## Turn off all Redstone & Tile Optimizations
 
-Turning off all optimizations for redstone and tiles entities is pretty simple. 
+Turning off all optimizations for redstone and tiles entities is pretty simple.
 
 ### Disable Redstone Suppression
 

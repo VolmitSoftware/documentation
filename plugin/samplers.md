@@ -64,7 +64,7 @@ description: >-
 | REDSTONE\_TICK | Redstone per tick | 4/t |
 | REDSTONE\_SECOND | Redstone per second | 28/s |
 | REDSTONE\_TIME | Redstone tick time | 2ms |
-| PHYSICS\_TIME | Physics tick time  | 7ms |
+| PHYSICS\_TIME | Physics tick time | 7ms |
 | HOPPER\_TICK\_USAGE | Hopper tick usage | 8% |
 | HOPPER\_TICK | Hopper per tick | 7/t |
 | HOPPER\_SECOND | Hopper per second | 43/s |
@@ -75,6 +75,4 @@ description: >-
 | FLUID\_TIME | Fluid tick time | 3ms |
 {% endtab %}
 {% endtabs %}
-
-
 

@@ -965,6 +965,5 @@ rai:
 
     # The server is considered lagging if the tick time exeeds this value
     high-tick: 50.0
-
 ```
 

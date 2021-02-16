@@ -7,8 +7,8 @@ description: >-
 # Commands
 
 {% hint style="info" %}
-Many of the commands on this page may have one or more _alias_ commands between brackets behind their main title. This means that you can also run that command with the alias. Example: `/react action collect-garbage`does the same as `/re act gc`  
-  
+Many of the commands on this page may have one or more _alias_ commands between brackets behind their main title. This means that you can also run that command with the alias. Example: `/react action collect-garbage`does the same as `/re act gc`
+
 Any parameter in between `[` and `]` is optional, meaning they can be omitted. Parameters between `<` and `>` cannot be omitted. \(toogle\) means that by running the command the function is either turned on or off.
 {% endhint %}
 

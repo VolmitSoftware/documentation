@@ -11,7 +11,7 @@ Later versions of Paperspigot force you to pull timings reports which are longer
 ### Usage
 
 ```text
-/re act timings 
+/re act timings
 ```
 
 ### Selector Usage

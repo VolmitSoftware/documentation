@@ -11,8 +11,8 @@ description: A list of permissions and what they pertain to
 | Node | Default | Description |
 | :--- | :--- | :--- |
 | **react.tempaccess** | **YES** | Grants the ability to REQUEST access to use react temporarily by manual approval by someone with real react access |
-| **react.access** | OP | Grants the ability to access react commands  |
-| **react.teleport**  | OP | Grants access for players to "click to teleport" to certain reported chunks |
+| **react.access** | OP | Grants the ability to access react commands |
+| **react.teleport** | OP | Grants access for players to "click to teleport" to certain reported chunks |
 | **react.reload** | OP | Grants the ability to reload react |
 | **react.rai** | OP | Grants the ability to use RAI |
 | **react.monitor** | OP | Grants the ability to use react's monitoring tools |
@@ -22,7 +22,7 @@ description: A list of permissions and what they pertain to
 {% endtab %}
 
 {% tab title="Monitor" %}
- **react.monitor** Grants all of the following nodes
+**react.monitor** Grants all of the following nodes
 
 | Node | Default | Description |
 | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ description: A list of permissions and what they pertain to
 {% endtab %}
 
 {% tab title="Action" %}
- **react.act** Grants all of the following nodes
+**react.act** Grants all of the following nodes
 
 | Node | Default | Description |
 | :--- | :--- | :--- |
@@ -46,10 +46,10 @@ description: A list of permissions and what they pertain to
 | **react.act.lock-hopper** | OP | Grants the ability to lock hoppers |
 | **react.act.lock-redstone** | OP | Grants the ability to lock redstone |
 | **react.act.purge-chunks** | OP | Grants the ability to purge chunks |
-| **react.act.purge-entities** | OP | Grants the ability to purge entities  |
+| **react.act.purge-entities** | OP | Grants the ability to purge entities |
 | **react.act.unlock-fluid** | OP | Grants the ability to unlock fluids |
 | **react.act.unlock-hopper** | OP | Grants the ability to unlock hoppers |
-| **react.act.unlock-redstone** | OP | Grants the ability to unlock  |
+| **react.act.unlock-redstone** | OP | Grants the ability to unlock |
 {% endtab %}
 {% endtabs %}
 

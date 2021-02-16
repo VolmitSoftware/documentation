@@ -40,5 +40,3 @@ Download and Install like you did with React
 * Mythic Mobs Support \(requires [MythicMobs](https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/)\)
 * Advancements \(mc 1.9+\)
 
-
-
