@@ -17,6 +17,13 @@
 * [Accessing the API](api/accessing-the-api.md)
 * [Javadocs](https://github.com/VolmitSoftware/VehiclesPlus/wiki)
 
+## Links
+
+* [Bug Tracker](https://github.com/VolmitSoftware/VehiclesPlus/issues)
+* [Spigot](https://www.spigotmc.org/resources/vehiclesplus.70523/)
+* [Polymart](https://polymart.org/resource/vehiclesplus.633)
+* [Discord Support](https://discord.gg/gvKjG9C)
+
 ## Custom Vehicle Models
 
 * [Adding New Vehicles \(WIP\)](custom-vehicle-models/adding-new-vehicles-wip.md)
@@ -25,11 +32,4 @@
 * [Create rims \(WIP\)](custom-vehicle-models/create-rims-wip.md)
 * [Create fuels \(WIP\)](custom-vehicle-models/create-fuels-wip.md)
 * [Spawning vehicle parts \(WIP\)](custom-vehicle-models/spawning-vehicle-parts-wip.md)
-
-## Links
-
-* [Bug Tracker](https://github.com/VolmitSoftware/VehiclesPlus/issues)
-* [Spigot](https://www.spigotmc.org/resources/vehiclesplus.70523/)
-* [Polymart](https://polymart.org/resource/vehiclesplus.633)
-* [Discord Support](https://discord.gg/gvKjG9C)
 
