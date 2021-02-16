@@ -1,4 +1,4 @@
-# Create fuels \(WIP\)
+# Create fuels
 
 {% hint style="warning" %}
 Please visit our [legacy wiki](https://github.com/VolmitSoftware/VehiclesPlus/wiki) to begin creating new vehicles

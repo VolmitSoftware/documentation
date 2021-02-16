@@ -2,7 +2,7 @@
 description: A tutorial on how to create new rims
 ---
 
-# Create rims \(WIP\)
+# Create rims
 
 {% hint style="warning" %}
 Please visit our [legacy wiki](https://github.com/VolmitSoftware/VehiclesPlus/wiki) to begin creating new vehicles

@@ -2,7 +2,7 @@
 description: A tutorial on how to create new vehicles
 ---
 
-# Creating new vehicles \(WIP\)
+# Creating new vehicles
 
 {% hint style="warning" %}
 Please visit our [legacy wiki](https://github.com/VolmitSoftware/VehiclesPlus/wiki) to begin creating new vehicles

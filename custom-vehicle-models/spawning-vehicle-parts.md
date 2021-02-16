@@ -1,4 +1,4 @@
-# Spawning vehicle parts \(WIP\)
+# Spawning vehicle parts
 
 {% hint style="warning" %}
 Please visit our [legacy wiki](https://github.com/VolmitSoftware/VehiclesPlus/wiki) to begin creating new vehicles

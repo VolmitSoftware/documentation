@@ -2,7 +2,7 @@
 description: A tutorial on how to add pre-made vehicles to your server
 ---
 
-# Adding New Vehicles \(WIP\)
+# Adding New Vehicles
 
 ## Finding New Vehicles
 

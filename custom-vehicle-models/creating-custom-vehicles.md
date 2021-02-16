@@ -2,7 +2,7 @@
 description: A tutorial on how to create custom Vehicles for your server
 ---
 
-# Creating Custom Vehicles \(WIP\)
+# Creating Custom Vehicles
 
 {% hint style="warning" %}
 Please visit our [legacy wiki](https://github.com/VolmitSoftware/VehiclesPlus/wiki) to begin creating new vehicles
