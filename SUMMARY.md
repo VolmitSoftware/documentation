@@ -31,5 +31,5 @@
 * [Bug Tracker](https://github.com/VolmitSoftware/VehiclesPlus/issues)
 * [Spigot](https://www.spigotmc.org/resources/vehiclesplus.70523/)
 * [Polymart](https://polymart.org/resource/vehiclesplus.633)
-* [Need Support? - Discord](https://discord.gg/gvKjG9C)
+* [Discord Support](https://discord.gg/gvKjG9C)
 
