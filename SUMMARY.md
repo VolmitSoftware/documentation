@@ -15,7 +15,7 @@
 
 ## Links
 
+* [Need Support? - Discord](https://discord.com/invite/3xxPTpT)
 * [Bug Tracker](https://github.com/VolmitSoftware/Gloss/issues/new)
 * [Spigot](https://www.spigotmc.org/resources/gloss-legendary-holograms-boards.65840/)
-* [Need Support? - Discord](https://discord.com/invite/3xxPTpT)
 
