@@ -26,10 +26,10 @@
 
 ## Custom Vehicle Models
 
+* [Adding New Vehicles \(WIP\)](custom-vehicle-models/adding-new-vehicles-wip.md)
 * [Spawning vehicle parts \(WIP\)](custom-vehicle-models/spawning-vehicle-parts-wip.md)
 * [Create fuels \(WIP\)](custom-vehicle-models/create-fuels-wip.md)
 * [Create rims \(WIP\)](custom-vehicle-models/create-rims-wip.md)
 * [Creating new vehicles \(WIP\)](custom-vehicle-models/creating-new-vehicles-wip.md)
 * [Creating Custom Vehicles \(WIP\)](custom-vehicle-models/creating-custom-vehicles-wip.md)
-* [Adding New Vehicles \(WIP\)](custom-vehicle-models/adding-new-vehicles-wip.md)
 
