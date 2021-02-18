@@ -284,5 +284,3 @@ You can also specify ores in region and biome files separately. This is done in 
 
 If you cannot find the settings you're looking for here, check out the [Dimensions Mastering Page](../mastering/dimensions/).
 
-## 
-

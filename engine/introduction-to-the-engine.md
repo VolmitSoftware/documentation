@@ -18,7 +18,7 @@ A core philosophy of Iris is flexibility, meaning that Iris is capable of genera
 
 ## **How Iris handles your worlds**
 
-For any given world, Iris takes a set of instructions and uses that to shape the world. You are in full control; whether that is determining which block should be placed at any given location, how biomes should be arranged, how structures should spawn, and so on, you decide everything! 
+For any given world, Iris takes a set of instructions and uses that to shape the world. You are in full control; whether that is determining which block should be placed at any given location, how biomes should be arranged, how structures should spawn, and so on, you decide everything!
 
 Such a set of instructions is called a pack. The Overworld is an example of a pack. Iris world generation is handled on a per-world basis, meaning you can set up any multitude of worlds, each with their own custom pack, or have multiple worlds share the same pack if you so desire.
 

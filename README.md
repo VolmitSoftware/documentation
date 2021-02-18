@@ -49,5 +49,3 @@ Iris is a fully featured terrain generator. Terrain features are specific to wha
 
 ## Download Iris on [Spigot ](https://www.spigotmc.org/resources/iris-world-gen-the-dimension-engine.84586/)or [Polymart](https://polymart.org/resource/iris-world-gen.737)
 
-
-

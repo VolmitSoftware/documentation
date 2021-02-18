@@ -93,7 +93,7 @@ The region files can be found in the `regions` folder and usually have a descrip
 "name": "Hot"
 ```
 
-The name of the region. It is best to keep / make this the same as the name of the file you are editing. 
+The name of the region. It is best to keep / make this the same as the name of the file you are editing.
 
 ### 2 - Land, Sea & Shore Biomes \*
 
@@ -172,7 +172,7 @@ These biomes have a few properties:
 "biome": "swamp-forest"
 ```
 
-Here you specify the type of biome that should spawn as a ridge \(a straight but fractal line through the land\). 
+Here you specify the type of biome that should spawn as a ridge \(a straight but fractal line through the land\).
 {% endtab %}
 
 {% tab title="Type" %}
@@ -180,7 +180,7 @@ Here you specify the type of biome that should spawn as a ridge \(a straight but
 "type": "LAND"
 ```
 
-Here you specify the type of terrain ridges should spawn on, can be any of the previous types \(`"SHORE"`, `"LAND"`, `"SEA"`, `"CAVE"`, `"RIVER"`, and `"LAKE"`\) and  `"DEFER"`, where the last option uses a random type every time \(not always the same\). 
+Here you specify the type of terrain ridges should spawn on, can be any of the previous types \(`"SHORE"`, `"LAND"`, `"SEA"`, `"CAVE"`, `"RIVER"`, and `"LAKE"`\) and `"DEFER"`, where the last option uses a random type every time \(not always the same\).
 {% endtab %}
 
 {% tab title="Chance" %}
@@ -191,7 +191,7 @@ Here you specify the type of terrain ridges should spawn on, can be any of the p
 Here you specify the chance that the biome will continue and / or spawn in any given location on the previously specified `"type"` terrain. Ranges from 0 \(never\) to 1 \(frequently\).
 
 {% hint style="warning" %}
-For the use of [Spot Biomes](regions.md#6-spot-biomes), this setting is replaced by `"rarity",`but functions the same. 
+For the use of [Spot Biomes](regions.md#6-spot-biomes), this setting is replaced by `"rarity",`but functions the same.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -234,5 +234,5 @@ Places vanilla rivers in the world if turned to `true` and not if `false`.
 
 ## Mastering
 
-If you cannot find the settings you're looking for here, check out the [Template Mastering Page]()
+If you cannot find the settings you're looking for here, check out the [Template Mastering Page](regions.md)
 

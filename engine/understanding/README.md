@@ -14,13 +14,13 @@ We would like to warn new users that the Mastering section is more abstract and 
 {% endhint %}
 
 {% hint style="info" %}
-Note before we begin. 
+Note before we begin.
 
 This page assumes you have [created a new project](../new-project.md) using `template=example` when creating the project, and that you also have VSCode open, and that you know how to close and \(re-\)open studio worlds and project files.
 
 All references to folders are as you see them in the VSCode workspace \(`*/plugins/iris/packs/example/`\).  
 Folders and files and are generally marked like `this`.  
-If the referenced folder does not exist, you can create it. 
+If the referenced folder does not exist, you can create it.
 
 Make sure to make no mistakes when entering the name of the folder, as this will lead to issues later on.
 {% endhint %}
@@ -37,7 +37,7 @@ From here on we assume you know this. Make sure to read this and not skip to edi
 
 ### Creating Objects
 
-You can easily create new objects by right clicking the folder of your project in VSCode, and creating the folder type if it doesn't exist. Then right click that new folder and click new file. Name it `<name>.json`. 
+You can easily create new objects by right clicking the folder of your project in VSCode, and creating the folder type if it doesn't exist. Then right click that new folder and click new file. Name it `<name>.json`.
 
 {% hint style="info" %}
 Typically file names should be all lower case with hyphens \(-\) for spaces.
@@ -47,7 +47,7 @@ Objects start like this:
 
 ```text
 {
-    
+
 }
 ```
 
@@ -116,8 +116,6 @@ Loot are `json` files and they are placed in the `loot` folder. Loot tables can 
 ### [Entities](entities.md)
 
 Entities are `json` files stored in the `entities` folder. Entities can be spawned and have customized options for each entity object, such as armor, effects, attributes and more. See [Entities](entities.md).
-
-
 
 #### Support
 

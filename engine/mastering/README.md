@@ -28,9 +28,7 @@ These pages will feel more like Java Docs \(if you know what those are\).
 {% endtab %}
 {% endtabs %}
 
-
-
-#### Support
+## Support
 
 We offer support on our [Discord](https://discord.com/invite/3xxPTpT). Ask questions you cannot answer using the Wiki there.  
 We ask you to look on the Wiki for a solution for your issue before going there.  
@@ -41,6 +39,4 @@ We are now getting into seriously complex territory. This means that not all sup
 {% endhint %}
 
 * The Volmit Software Team
-
-
 

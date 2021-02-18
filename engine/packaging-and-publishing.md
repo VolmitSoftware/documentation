@@ -23,5 +23,3 @@ You can publish your project to the [Iris GitHub community](https://github.com/I
 
 Simply make a [Pull Request to this list ](https://github.com/VolmitSoftware/Iris/blob/master/listing.json)and add your dimension name, followed by a space and the URL to your GitHub project.
 
-
-

@@ -25,22 +25,22 @@ These are the Boolean values that are toggle able in the dimension file. The one
     "vanillaStructures": false,
 ```
 
-## Carving 
+## Carving
 
 **Carve Terrain or not**  
-Carving is a 3D Noise layer that will  just **CUT** through mountains and terrain, making some neat cliffs in mountain regions. This has a reasonable performance hit, but is on by default- well worth it in out opinion.
+Carving is a 3D Noise layer that will just **CUT** through mountains and terrain, making some neat cliffs in mountain regions. This has a reasonable performance hit, but is on by default- well worth it in out opinion.
 
-## Caves 
+## Caves
 
 **Generate Caves or not.**  
 Literally just a true or false as to allow iris generate **IRIS caves** not to be confused with **Vanilla Caves**
 
-## Decorate 
+## Decorate
 
 **Generate Decorations or not.**  
 Literally just a true or false as to allow iris generate predefined decorators in each biome. Example: if you have a biome decorator that says to generate flowers, toggling this in the dimension will toggle it everywhere
 
-## Debug Smart Bore 
+## Debug Smart Bore
 
 **Instead of filling objects with air, fill with cobweb so you can see**  
 This is to help show you where iris thinks blocks are, and are not. It places cobwebs in the air blocks to show you where the **Structure** module thinks it should Cut blocks and stuff out, without overwriting the other surroundings.
@@ -48,7 +48,7 @@ This is to help show you where iris thinks blocks are, and are not. It places co
 ## Place Objects
 
 **Disable this to stop placing objects in biomes**  
-This is the _'hand that gives, or the hand that takes away'_  in regards to objects. It prevents the placement of all iris schematics in biomes.
+This is the _'hand that gives, or the hand that takes away'_ in regards to objects. It prevents the placement of all iris schematics in biomes.
 
 ## Post Processing
 
@@ -57,7 +57,7 @@ Post processing is the unessential, finishing touches that iris does to make the
 
 | Slabber | **Pot-Hole-Filler** | Nipple-Remover | Stacker-Fixer |
 | :--- | :--- | :--- | :--- |
-| The module that puts slabs on slopes for a more natural look. |  The generator might make a small hole, Iris will remove this. | The generator might make a small bump, Iris will remove this. | Prevents the rare occurrence, of buttons stacking as a decorator. |
+| The module that puts slabs on slopes for a more natural look. | The generator might make a small hole, Iris will remove this. | The generator might make a small bump, Iris will remove this. | Prevents the rare occurrence, of buttons stacking as a decorator. |
 
 ## Post Process Caves
 

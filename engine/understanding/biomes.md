@@ -331,7 +331,7 @@ Slabs are literal slabs on the terrain that will cause a nice curve. Instead of 
 "rarity": 1
 ```
 
-The rarity can make certain biomes more rare. The higher the number, the lower the spawnrate \(the more "rare"\). Ranges from 1 to 512. See this as 100% / `value` chance of spawning for each location. 
+The rarity can make certain biomes more rare. The higher the number, the lower the spawnrate \(the more "rare"\). Ranges from 1 to 512. See this as 100% / `value` chance of spawning for each location.
 
 ### 9 - Debug Color
 
@@ -377,7 +377,7 @@ The multiplier of the loot if the loot check is passed \(directly multiplies the
 "tables": [global-tools]
 ```
 
-The array of tables used to pick loot for the chests. 
+The array of tables used to pick loot for the chests.
 {% endtab %}
 {% endtabs %}
 

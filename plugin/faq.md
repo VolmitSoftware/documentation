@@ -21,7 +21,7 @@ Solutions for each of these problems are listed below:
 
 ### 1. Updated Dimension for the world
 
-If you followed the ["How To Update - Loaded Worlds" in Updates](../engine/updateoverworld.md#how-to-update-loaded-worlds) tutorial for the world you are having this issue in, the issue is most likely caused by that change. The only way to resolve this is by undoing the changes you made to update the pack by loading the backup you made \(we explicitly told you to\). Hopefully you followed our advise and made a back-up. 
+If you followed the ["How To Update - Loaded Worlds" in Updates](../engine/updateoverworld.md#how-to-update-loaded-worlds) tutorial for the world you are having this issue in, the issue is most likely caused by that change. The only way to resolve this is by undoing the changes you made to update the pack by loading the backup you made \(we explicitly told you to\). Hopefully you followed our advise and made a back-up.
 
 If you did not, you're out of luck; follow the warnings next time.
 
@@ -36,7 +36,7 @@ If you cannot find what causes your biome not to be used, feel free to contact s
 ### 3. Updates to Iris which were marked
 
 {% hint style="info" %}
-The update notification sometimes contains something like this: 
+The update notification sometimes contains something like this:
 
 "This update may have an affect on your world"
 
@@ -51,9 +51,9 @@ If you start seeing vanilla chunks where you expect Iris to make chunks, you may
 
 ## Can I uninstall Iris without issues?
 
-There are multiple things Iris controls which will break when you uninstall the plugin. If you are alright with losing these features, you can uninstall the plugin. 
+There are multiple things Iris controls which will break when you uninstall the plugin. If you are alright with losing these features, you can uninstall the plugin.
 
- Features that will break:
+Features that will break:
 
 * **New chunks will not be custom:**  _New chunks will be normal vanilla chunks which do not align properly with existing chunks_
 * **Custom particle & sound effects will disappear:**  _There are custom particles & sound effects which will no longer be \(dis\)played and replaced by \(boring\) vanilla equivalents_
@@ -61,7 +61,7 @@ There are multiple things Iris controls which will break when you uninstall the 
 
 Another feature that may break is:
 
-* **Custom leaf decay systems:** _****Iris spawns custom trees which have leaves which are too far away from logs without them decaying. Iris controls leaf decay systems and uninstalling the plugin may result in leaves being removed where they shouldn't._
+* **Custom leaf decay systems:** _\*\*Iris spawns custom trees which have leaves which are too far away from logs without them decaying. Iris controls leaf decay systems and uninstalling the plugin may result in leaves being removed where they shouldn't._
 
 ## Are there any unsupported plugins?
 
@@ -85,19 +85,17 @@ If you try to pregen on a host it is recommended to set the following line in th
 You can pregenerate a world using the [/iris pregen ](commands.md#iris-pregen)command. Here is a quick step-by-step
 
 1. **Teleport to the world**. You have to be in the world you want to generate to be able to run this command. 
-2. **Run Iris Pregen**. You can now enter the pregen command. You can replace `distance` with the amount of blocks in a direction you want to generate.  
-  
+2. **Run Iris Pregen**. You can now enter the pregen command. You can replace `distance` with the amount of blocks in a direction you want to generate.
+
    Command:  
    `/iris pregen distance`
 
-  
-   We recommend to use `5000` for `distance` for servers with up to 10 players in total, adding `1000`for every additional players  
-  
-   Recommended command for less than 10 players:  
-   `/iris pregen 5000`  
- 
+We recommend to use `5000` for `distance` for servers with up to 10 players in total, adding `1000`for every additional players
 
-3. **Wait for the pregen to finish**. You will see updates on progress in the console around every 5 seconds. If you are hosting locally a window will also open where you can monitor progress directly.  Note that the pregeneration task can take quite some time depending on how much or little power Iris has access to, and the size of the task you give. If you ever have issues with the ram running full and your server crashing, decrease the [Parallax Chunk Eviction MS setting](configuration.md#parallax-chunk-eviction-ms) in the settings. Note that at the end of a pregeneration task, it can go over 100%. This is merely Iris filling up dead space, but it can take a while.
+Recommended command for less than 10 players:  
+`/iris pregen 5000`
+
+1. **Wait for the pregen to finish**. You will see updates on progress in the console around every 5 seconds. If you are hosting locally a window will also open where you can monitor progress directly.  Note that the pregeneration task can take quite some time depending on how much or little power Iris has access to, and the size of the task you give. If you ever have issues with the ram running full and your server crashing, decrease the [Parallax Chunk Eviction MS setting](configuration.md#parallax-chunk-eviction-ms) in the settings. Note that at the end of a pregeneration task, it can go over 100%. This is merely Iris filling up dead space, but it can take a while.
 
 ## How do I make biomes larger?
 

@@ -104,7 +104,7 @@ The horisontal scale indicates the size of the checked range. The larger this is
 "seed": 12345
 ```
 
-The seed is a number you can pick which randomises the algorithms behind the functions. Changing this value may lead to completely different outcomes, but never predictably so. 
+The seed is a number you can pick which randomises the algorithms behind the functions. Changing this value may lead to completely different outcomes, but never predictably so.
 
 ### 3 - Composite \*
 
@@ -257,5 +257,5 @@ Explanation
 
 ## Mastering
 
-If you cannot find the settings you're looking for here, check out the [Template Mastering Page]()
+If you cannot find the settings you're looking for here, check out the [Template Mastering Page](generators.md)
 

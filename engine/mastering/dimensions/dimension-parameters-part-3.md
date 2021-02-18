@@ -39,7 +39,6 @@ These are the values that list, compile, or involve other objects in the dimensi
     "seaBiomeStyle": {},
     "shoreBiomeStyle": {},
     "skylandBiomeStyle": {},
-
 ```
 {% endtab %}
 
@@ -57,7 +56,7 @@ Block Drops are the **items** that are dropped when broken, or are tossed into c
 
 ### Carve Layers
 
-**Define carve layers, If you put this in the file you need to have it defined or remove it. it will cause problems.** the carve layers are 
+**Define carve layers, If you put this in the file you need to have it defined or remove it. it will cause problems.** the carve layers are
 
 <table>
   <thead>
@@ -85,7 +84,7 @@ Block Drops are the **items** that are dropped when broken, or are tossed into c
 
 ### Cave Layers
 
-**Define cave layers, If you put this in the file you need to have it defined or remove it. it will cause problems.** 
+**Define cave layers, If you put this in the file you need to have it defined or remove it. it will cause problems.**
 
 | Can Break Surface | Cave Thickness | Cave Zoom |
 | :--- | :--- | :--- |
@@ -107,13 +106,13 @@ When an entity is spawned this is run to determine any interaction with that spa
 
 | Entity | Max Spawns | Min Spawns | Rarity |
 | :--- | :--- | :--- | :--- |
-| This is the entity, if you have a plugin that has a unique ID entity, put that here. EG: "COW" | Max of this entity to spawn on a Single entity chance Spawn | Min of this entity to spawn on a Single entity chance Spawn | The rarity of the Spawn, Min=1, higher = more rare  |
+| This is the entity, if you have a plugin that has a unique ID entity, put that here. EG: "COW" | Max of this entity to spawn on a Single entity chance Spawn | Min of this entity to spawn on a Single entity chance Spawn | The rarity of the Spawn, Min=1, higher = more rare |
 
 ### Entity Spawn Overrides
 
 | Cancel Source Spawn | Entity | Rarity | Trigger |
 | :--- | :--- | :--- | :--- |
-| This is a Boolean that prevents the spawn of 'entity' if trigger is passed. | This is the entity, if you have a plugin that has a unique ID entity, put that here. EG: "COW" | The rarity of the Spawn, assuming the trigger is not false, Min=1, higher = more rare  | In the event of "ENTITY" spawns, This trigger is true.  |
+| This is a Boolean that prevents the spawn of 'entity' if trigger is passed. | This is the entity, if you have a plugin that has a unique ID entity, put that here. EG: "COW" | The rarity of the Spawn, assuming the trigger is not false, Min=1, higher = more rare | In the event of "ENTITY" spawns, This trigger is true. |
 
 **This represents the Event of an event spawn**  
 When an entity is spawned this is run to determine any interaction with that spawn. This is usually to either challenge that, or change that
@@ -126,8 +125,7 @@ This is the palette where you set what the fluid is going to be. This is what is
 ### **L**oot
 
 **Try to fill a container with loot up to this many times to avoid too many empty chests.**  
-Loot tables are unique to each file. The Dimensional files are global loot, Region and Biome loot all have their own files respectively. To learn about loot go [here](../universal-parameters/#drops-explained).  
-****
+Loot tables are unique to each file. The Dimensional files are global loot, Region and Biome loot all have their own files respectively. To learn about loot go [here](../universal-parameters/#drops-explained).
 
 ### Mutations
 

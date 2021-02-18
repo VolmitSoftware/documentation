@@ -116,9 +116,9 @@ Style/Generator is the 4-D _\(that's one more D than 3D\)_ rules that draw the c
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><em>Max: </em><b>64</b>
+        <p><em>Max:</em>  <b>64</b>
         </p>
-        <p><em>Min:  </em><b>0.01562</b>
+        <p><em>Min:</em>  <b>0.01562</b>
         </p>
         <p>Exponent to the Multiplier.</p>
       </td>
@@ -237,7 +237,7 @@ Drops are the **items** that are dropped when broken, or are tossed into chests 
         "maxPerChunk": 0,
         "maxSize": 0,
         "minHeight": 0,
-        
+
         "minPerChunk": 0,
         "minSize": 0,
         "palette": [{}],
@@ -326,7 +326,7 @@ The palette is the set of blocks that are included in the parent function's list
 
 | Backup | Block | Data |
 | :--- | :--- | :--- |
-| In the event that the block cant be placed in this version of MC, the backup is a palette of alternatives.  | This can have as many blocks as you want | Extra block data, like Waterlogged, or Count etc |
+| In the event that the block cant be placed in this version of MC, the backup is a palette of alternatives. | This can have as many blocks as you want | Extra block data, like Waterlogged, or Count etc |
 
 | Debug | Key | Weight |
 | :--- | :--- | :--- |
@@ -363,7 +363,7 @@ Fluid layers are a simple way to set a sort of water-layer or anything-layer in 
 
 | Fluid-Height | Fluid Type | Inverse Height |
 | :--- | :--- | :--- |
-| The layer and below that in the parent that this block will propagate   | This is a palette layout. To learn how to use a palette go [here](./#palette-breakdown) | Inverts the Fluid-Height, if its 15, and this is inverted so its everything above 15. |
+| The layer and below that in the parent that this block will propagate | This is a palette layout. To learn how to use a palette go [here](./#palette-breakdown) | Inverts the Fluid-Height, if its 15, and this is inverted so its everything above 15. |
 
 ## Slope Breakdown
 

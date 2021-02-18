@@ -7,8 +7,6 @@ description: >-
 
 # Biome Parameters Part 2
 
-
-
 ```javascript
 {
 "biomeScatter": [],
@@ -61,7 +59,7 @@ This changes the dispersion of the biome colors if multiple derivatives are chos
 **Define custom block drops for this biome**  
 Drops are the **items** that are dropped when broken**. This is a universal parameter** see [here ](../universal-parameters/#drops-breakdown)to see how to use it.
 
-## Children 
+## Children
 
 **Have a biome generate in the midst of this biome**  
 List any biome names \(file names without.json\) here as children. Portions of this biome can sometimes morph into their children. Iris supports cyclic relationships such as A &gt; B &gt; A &gt; B. **Iris will stop checking 9 biomes down the tree**.
@@ -69,7 +67,7 @@ List any biome names \(file names without.json\) here as children. Portions of t
 ## Decorators
 
 **Decorators are used for things like tall grass, bisected flowers, and even kelp or cactus \(random heights\)**  
-This is the best place where you can set the flowers, and organics that are in a per biome basis. 
+This is the best place where you can set the flowers, and organics that are in a per biome basis.
 
 ## Deposits
 
@@ -99,33 +97,18 @@ Style/Generator is the 4-D _\(that's one more D than 3D\)_ rules that draw the c
 
 ## Layers
 
-  
-
-
 ## Loot
 
 **What Generates in conatiners here in this biome**  
 This is a global parameter, and a regional, AND a biome parameter. [this ](../universal-parameters/#loot-explained)is a great breakdown of loot. Beware that by default this stacks with other parent loot rolls unless otherwise specified
 
-## Objects 
-
-  
-
+## Objects
 
 ## Sea Layers
 
-  
-
-
 ## Slab
 
-  
-
-
 ## Structures
-
-  
-
 
 ## Text
 
@@ -133,7 +116,4 @@ This is a global parameter, and a regional, AND a biome parameter. [this ](../un
 Please refer to [this](../universal-parameters/#text), for a full explanation of how to use this interesting tool. you can make a trademark per biome if you wanted. the possibilities are strangely endless.
 
 ## Wall
-
-  
-
 

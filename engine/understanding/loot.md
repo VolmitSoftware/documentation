@@ -206,7 +206,7 @@ The name of the item
 ]
 ```
 
-The \(possible\)  enchantments applied to the item.
+The \(possible\) enchantments applied to the item.
 
 {% hint style="info" %}
 This should only work on items that can actually get that enchantment but that may not always be the case.
@@ -214,9 +214,9 @@ This should only work on items that can actually get that enchantment but that m
 
 | Option | Setting | Effect |
 | :--- | :--- | :--- |
-| "enchantment": |  "KNOCKBACK" | Applied enchantment |
+| "enchantment": | "KNOCKBACK" | Applied enchantment |
 | "chance": | 0.2 | Chance of application |
-| "minLevel":  | 1 | Minimal level |
+| "minLevel": | 1 | Minimal level |
 | "maxLevel": | 2 | Maximal level |
 
 Note that the minimal and maximal level are equally distributing all levels inbetween and including themselves after chance is picked. This means that _if_ the enchantment is applied, the chance of _all levels of the enchantment_ is equal.
@@ -244,5 +244,5 @@ The overall chance a container this loot table is assigned to gets loot from thi
 
 ## Mastering
 
-If you cannot find the settings you're looking for here, check out the [Template Mastering Page]()
+If you cannot find the settings you're looking for here, check out the [Template Mastering Page](loot.md)
 

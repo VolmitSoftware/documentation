@@ -11,7 +11,7 @@ It is **highly** recommended that you host a **local** server on the same machin
 {% endhint %}
 
 {% hint style="info" %}
-It is also **highly** recommended that you have [VSCode](https://code.visualstudio.com/) Installed. Iris takes full advantage of its workspace functionality and allows for effective content assist features. Please install [VSCode ](https://code.visualstudio.com/)before using Iris Projects. 
+It is also **highly** recommended that you have [VSCode](https://code.visualstudio.com/) Installed. Iris takes full advantage of its workspace functionality and allows for effective content assist features. Please install [VSCode ](https://code.visualstudio.com/)before using Iris Projects.
 
 We used to have this tip everywhere, but we will now give it only once. Not doing this will make your life harder than it needs to be, so just do it OK :\)
 {% endhint %}
@@ -22,7 +22,7 @@ We used to have this tip everywhere, but we will now give it only once. Not doin
 
 ## Structure of the Studio Wiki Pages
 
-We will provide two types of tutorials: Understanding and Mastering. As these types suggest, `Understanding` is for the basic know-how of the files to be able to make  quick changes and tweaks, whereas`Mastering` contains all options with a short, more abstract, description of their respective effects to allow full control.
+We will provide two types of tutorials: Understanding and Mastering. As these types suggest, `Understanding` is for the basic know-how of the files to be able to make quick changes and tweaks, whereas`Mastering` contains all options with a short, more abstract, description of their respective effects to allow full control.
 
 Both [Understanding ](understanding/)and [Mastering ](mastering/)have pages. These pages correspond with the types of objects as found in the "Overworld" pack like follows:
 
@@ -39,7 +39,7 @@ These are ordered in order of importance \(most impactful highest\)
 * Loot
 * Entities
 
-Editing can be fairly simple in one and very complex in another area. We ask you to use the Wiki when you are in search for answers regarding editing Dimensions. If the Wiki is insufficient, unclear, incomplete, outdated, or you would rather talk to someone directly, the support [Discord ](https://discord.com/invite/3xxPTpT)is always open for questions. 
+Editing can be fairly simple in one and very complex in another area. We ask you to use the Wiki when you are in search for answers regarding editing Dimensions. If the Wiki is insufficient, unclear, incomplete, outdated, or you would rather talk to someone directly, the support [Discord ](https://discord.com/invite/3xxPTpT)is always open for questions.
 
 In the pages for each of the types you can find a video tutorial at the top if available for that section.
 

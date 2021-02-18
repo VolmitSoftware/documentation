@@ -21,7 +21,7 @@ They cannot be directly modified, so this will be a short guide on how objects c
 
 ### Create a new object
 
-You can create a new object by building one in game and then saving it.   
+You can create a new object by building one in game and then saving it.  
 The object can be any size under 512 x 256 x 512.  
 Note that sizes that large will be heavy on the server to place.
 

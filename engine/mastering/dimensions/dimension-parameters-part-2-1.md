@@ -30,7 +30,7 @@ These are the Boolean values that are toggle able in the dimension file. The one
 ## Version
 
 **The Version of this dimension, Changing this will prevent you from accidentally upgrading your file and corrupting the world.**  
-The version of the configuration files in the pack. 
+The version of the configuration files in the pack.
 
 ## Fluid Height
 
@@ -39,8 +39,8 @@ The vanilla default is 63, this makes the base water level at 63
 
 ## Dimensional Angle
 
-**You can rotate the input coordinates by an angle. This can make terrain appear more natural \(less sharp corners and lines\).**   
-This literally rotates the entire dimension by an angle.  Try 12 degrees or something not on a 90 or 45 degree angle. Default Value is 0.0, Maximum allowed is 360.0, Minimum allowed is 0.0
+**You can rotate the input coordinates by an angle. This can make terrain appear more natural \(less sharp corners and lines\).**  
+This literally rotates the entire dimension by an angle. Try 12 degrees or something not on a 90 or 45 degree angle. Default Value is 0.0, Maximum allowed is 360.0, Minimum allowed is 0.0
 
 ## Land Chance
 
@@ -161,7 +161,7 @@ This is fairly straightforward, only 3 possible options **NORMAL, NETHER,** and 
 **Keep this undefined or empty, setting this to a value will force the overworld to only generate that biome. Great for testing, Must be a valid biome.**  
 Focus mode allows you to have a specific biome be the only biome that shows up when you are making your biome. This was used in almost every step of developing the Overworld pack, and others. Below you would only see a desert
 
-#### "focus": "hot-desert",
+### "focus": "hot-desert",
 
 ## Name
 

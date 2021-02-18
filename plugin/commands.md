@@ -7,8 +7,8 @@ description: >-
 # Commands
 
 {% hint style="success" %}
-Many of the commands on this page may have one or more _alias_ commands between brackets behind their main title. This means that you can also run that command with the alias. Example: `/ir std o`does the same as `/iris studio open`  
-  
+Many of the commands on this page may have one or more _alias_ commands between brackets behind their main title. This means that you can also run that command with the alias. Example: `/ir std o`does the same as `/iris studio open`
+
 Any parameter in between `[` and `]` is optional, meaning they can be omitted. Parameters between `<` and `>` cannot be omitted.
 {% endhint %}
 
@@ -57,7 +57,7 @@ Download a pack from the online Iris repository
       <td style="text-align:left">
         <p>Remove excess project files,</p>
         <p>and recompile into lightweight bare-minimum files.</p>
-        <p>If you use <code>--trim </code>you should not use this for editing, only
+        <p>If you use <code>--trim</code> you should not use this for editing, only
           for generating.</p>
       </td>
     </tr>
@@ -196,7 +196,6 @@ Selects the second position at your position and stores it in the wand
       <td style="text-align:left">
         <p>Generates the world you are currently in</p>
         <p>It does so from 0,0 outwards, up until it hits the <code>blocks</code> distance</p>
-        <p></p>
         <p>Inside this parameter, you can use certain multipliers,</p>
         <p>which you put after the value you entered</p>
       </td>
@@ -265,13 +264,13 @@ Used to create a new dimension project in Iris.
 ```
 
 {% hint style="info" %}
-Using `/iris std new test template=flat` ****would create a new project called `test` but would have the content and properties of the existing dimension project `flat`. This is how you can easily create variations of existing projects without having to edit them or manage a bunch of files at the same time.
+Using `/iris std new test template=flat` _\*\*_would create a new project called `test` but would have the content and properties of the existing dimension project `flat`. This is how you can easily create variations of existing projects without having to edit them or manage a bunch of files at the same time.
 {% endhint %}
 
 | Parameters | Description |
 | :--- | :--- |
 | name | The name of the project to create |
-| template =  | The template project to create this one from |
+| template = | The template project to create this one from |
 
 ### /iris studio open\(o\)
 
@@ -359,7 +358,7 @@ Forces a hot-load on the current project world.
 
 ### /iris studio noise
 
-Opens a map that visualizes noise generators for help with choosing a good noise generator. 
+Opens a map that visualizes noise generators for help with choosing a good noise generator.
 
 {% hint style="info" %}
 Here is a video with all the noise maps featured:
@@ -369,7 +368,7 @@ Here is a video with all the noise maps featured:
 
 ### /iris studio loot
 
-Opens up a live updating inventory showing the kind of loot you might find in chests given your current location. 
+Opens up a live updating inventory showing the kind of loot you might find in chests given your current location.
 
 ### /iris studio convert\(cvt\)
 
@@ -381,7 +380,7 @@ Converts all `.EWG` structure objects in the `*/plugins/Iris/convert` folder to 
 
 ## /iris what \(w\)
 
-All of Iris' 
+All of Iris'
 
 ### /iris what biome\(bi, b\)
 

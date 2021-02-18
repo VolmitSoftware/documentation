@@ -49,11 +49,11 @@ This is fairly straightforward, only 3 possible options **NORMAL, NETHER,** and 
 ## Regions \(Essential\)
 
 **Define all regions to include in this dimension.**  
-This is **essential** for any dimension file. The listings in here are required for you to see any kind of impact or biomes generate. 
+This is **essential** for any dimension file. The listings in here are required for you to see any kind of impact or biomes generate.
 
-#### IF YOU WANT ANYTHING TO GENERATE YOU NEED TO HAVE BIOMES IN REGIONS, AND REGIONS IN THE DIMENSION FOLDER!
+### IF YOU WANT ANYTHING TO GENERATE YOU NEED TO HAVE BIOMES IN REGIONS, AND REGIONS IN THE DIMENSION FOLDER!
 
-## Caves 
+## Caves
 
 **Generate Caves or not.**  
 Literally just a true or false as to allow iris generate **IRIS caves** not to be confused with **Vanilla Caves**
@@ -63,17 +63,17 @@ Literally just a true or false as to allow iris generate **IRIS caves** not to b
 **Keep this undefined or empty, setting this to a value will force the overworld to only generate that biome. Great for testing, Must be a valid biome.**  
 Focus mode allows you to have a specific biome be the only biome that shows up when you are making your biome. This was used in almost every step of developing the Overworld pack, and others. Below you would only see a desert
 
-#### "focus": "hot-desert",
+### "focus": "hot-desert",
 
 ## Name
 
 **The human readable name of this dimension**  
 Name of Dimension. no real explanation needed
 
-## Carving 
+## Carving
 
 **Carve Terrain or not**  
-Carving is a 3D Noise layer that will  just **CUT** through mountains and terrain, making some neat cliffs in mountain regions. This has a reasonable performance hit, but is on by default- well worth it in out opinion.
+Carving is a 3D Noise layer that will just **CUT** through mountains and terrain, making some neat cliffs in mountain regions. This has a reasonable performance hit, but is on by default- well worth it in out opinion.
 
 ## Version
 
@@ -83,6 +83,4 @@ The version of the configuration files in the pack.
 ## Post Overview
 
 We highly recommend that you familiarize yourself, and toy around with them before diving straight into the heavy lifting- that is, **dimensional manipulation**. \(that sounds funny\) But in all seriousness the Dimensional file is likely the hardest of the files to learn, as all are relatively self explanatory in most other circumstances.
-
-
 
