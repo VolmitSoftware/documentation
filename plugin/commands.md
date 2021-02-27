@@ -115,7 +115,12 @@ Paste an object
   <tbody>
     <tr>
       <td style="text-align:left">name</td>
-      <td style="text-align:left">The name of the object to paste</td>
+      <td style="text-align:left">
+        <p>The name of the object to paste</p>
+        <p>An example object <code>tree</code> in the <code>trees</code> folder:</p>
+        <p><code>/ir o paste trees/tree</code>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">-edit</td>
