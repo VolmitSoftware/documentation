@@ -351,8 +351,6 @@ An very useful command when developing Iris projects. Used to find any biome.
 | biome\|this | Can be the name of any biome. If `this` is entered, it will find another biome like the one you are currently in |
 | -cave | If this is added, it will search for cave biomes instead of normal ones |
 
-If -cave is specified, Iris will try and find a cave biome instead of a surface biome.
-
 ### /iris studio editbiome\(eb\)
 
 Opens the biome file in VSCode that you are currently located at ingame. This is very useful when you have lots of biomes.
