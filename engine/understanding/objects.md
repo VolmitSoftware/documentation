@@ -39,5 +39,9 @@ Check out [this section ](biomes.md#5-objects)under Biomes to find how to implem
 
 ### Import and object from EWG
 
+{% hint style="warning" %}
+This may not work any more.
+{% endhint %}
+
 You can import objects from Epic World Generator by putting `.EWG` schematic files in the `*/plugins/Iris/convert` folder and using the [convert command](../../plugin/commands.md#iris-studio-convert).
 
