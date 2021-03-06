@@ -254,7 +254,7 @@ You can use this command in any world, even Studio and non-Iris worlds.
 
 Force-reloads plugin configurations. You should not have to use this since Iris automatically updates your settings for you, but it may sometimes not, in which case this can be used.
 
-## /iris studio\(std\)
+## /iris studio\(std, s\)
 
 Represents Iris Studio commands \(used when building & testing dimension projects\).
 

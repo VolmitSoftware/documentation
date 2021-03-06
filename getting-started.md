@@ -8,6 +8,11 @@ description: A quick start to get you generating Iris worlds in no-time!
 
 Iris is compatible with most world managers but Multiverse is the one we chose to actively interact with.
 
+### Download the pack
+
+First, you must download your pack. Download the pack with `/iris download overworld`.  
+\(More info at [Commands -&gt; Download](plugin/commands.md#iris-download-dl)\)
+
 {% hint style="success" %}
 If you want to replace the main Overworld with an Iris world, you have to follow [Replacing the Overworld](getting-started.md#replacing-the-overworld). If you want to create a new world with Iris, you have to follow [Creating a new World](getting-started.md#creating-a-new-world).
 {% endhint %}
