@@ -314,6 +314,10 @@ Packages your project into a compressed `.iris` file.
 | -o | Obfuscate object names to UUID's |
 | -m | Minify JSON |
 
+### /iris studio tpstudio\(tps\)
+
+Teleports the player to the studio world
+
 ### /iris studio update\(u\)
 
 Updates your VSCode workspace. This happens automatically whenever the project is opened or when a hot-load happens.
