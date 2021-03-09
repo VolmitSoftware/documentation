@@ -21,7 +21,7 @@ This is used to find out which objects are nearby, which biome you are in, and m
 
 Running this command with sufficient permissions, as a player, in an Iris or Studio world, will result in a file being created in the reports folder.
 
-## /iris create
+## /iris create\(c, cr, new, +\)
 
 Used to create worlds for gameplay use \(real, non-testing worlds\)
 
