@@ -73,7 +73,7 @@ All command boxes after this will use the alias `o`.
 
 Gives you an Iris Object Wand. Functions just like a worldedit wand.
 
-### /iris object dust\(dst\)
+### /iris object dust\(dst, d\)
 
 Gives you a powder which can be used to outline placed objects by clicking any block that is an element of that object.
 
