@@ -14,13 +14,6 @@ Any parameter in between `[` and `]` is optional, meaning they can be omitted. P
 
 If an issue report is mentioned with the command, there may be an issue in your version with this command. It might have been patched before this could be updated, so make sure to try yourself first.
 
-## /iris capture
-
-Captures data in your vincinity inside an Iris world.  
-This is used to find out which objects are nearby, which biome you are in, and many other useful pieces of information.
-
-Running this command with sufficient permissions, as a player, in an Iris or Studio world, will result in a file being created in the reports folder.
-
 ## /iris create\(c, cr, new, +\)
 
 Used to create worlds for gameplay use \(real, non-testing worlds\)
@@ -400,4 +393,118 @@ Gives you the data of the block you are looking at
 ### /iris what hand\(h\)
 
 Gives you the data of the block you are holding
+
+### /iris what object\(o, obj, capture, capt\)
+
+Captures data in your vicinity inside an Iris world.  
+Shows the following:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Information</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>== General Info ==</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Iris Version</td>
+      <td style="text-align:left">Self explanatory</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Bukkit Version</td>
+      <td style="text-align:left">Self explanatory</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">MC Version</td>
+      <td style="text-align:left">Self explanatory</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">PaperSpigot</td>
+      <td style="text-align:left">Boolean (Either Yup! or Nope!)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Date of report</td>
+      <td style="text-align:left">Date of when created</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Amount of chunks checked</td>
+      <td style="text-align:left">Integer followed by:</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">List of chunks checked</td>
+      <td style="text-align:left">Chunk-grid coordinates of checked chunks</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>== World Info ==</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">World Name</td>
+      <td style="text-align:left">Self explanatory</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Age</td>
+      <td style="text-align:left">The amount of time the world has existed (real time)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Folder</td>
+      <td style="text-align:left">The folder the world is in</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Regions</td>
+      <td style="text-align:left">The amount of regions this world has (fully) saved</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Chunks</td>
+      <td style="text-align:left">The max amount of full chunks generated</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">World Size</td>
+      <td style="text-align:left">An estimate of the total world size</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>== Biome Info ==</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Amount of biomes</td>
+      <td style="text-align:left">Integer followed by:</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">List of biomes</td>
+      <td style="text-align:left">
+        <p>A list of biomes nearby with their type (e.g. <code>Cave</code>) and</p>
+        <p>file name (<code>&lt;name&gt;.json</code>)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>== Object info ==</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">For each biome:</td>
+      <td style="text-align:left">Every biome found in the Biome Info as well</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">For each placement:</td>
+      <td style="text-align:left">Every object placed in the generated area</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">All possible objects</td>
+      <td style="text-align:left">
+        <p>Every object that could possibly be the object that was generated</p>
+        <p>This means that it is not guaranteed to be a single object.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
