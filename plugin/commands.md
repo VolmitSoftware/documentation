@@ -90,7 +90,7 @@ Saves the object to your project
 | project | The name of the project to save the object to |
 | name | The name of the object |
 
-### /iris object paste
+### /iris object paste\(pasta, place, p\)
 
 Paste an object
 
