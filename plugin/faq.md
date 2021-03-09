@@ -61,7 +61,7 @@ Features that will break:
 
 Another feature that may break is:
 
-* **Custom leaf decay systems:** _\*\*Iris spawns custom trees which have leaves which are too far away from logs without them decaying. Iris controls leaf decay systems and uninstalling the plugin may result in leaves being removed where they shouldn't._
+* **Custom leaf decay systems:** _Iris spawns custom trees which have leaves which are too far away from logs without them decaying. Iris controls leaf decay systems and uninstalling the plugin may result in leaves being removed where they shouldn't._
 
 ## Are there any unsupported plugins?
 
