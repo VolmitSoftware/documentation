@@ -396,7 +396,7 @@ Gives you the data of the block you are holding
 
 ### /iris what object\(o, obj, capture, capt\)
 
-Captures data in your vicinity inside an Iris world.  
+Captures data in your vicinity inside an Iris world. The file is saved to the `*/plugins/iris/reports`  
 Shows the following:
 
 <table>
