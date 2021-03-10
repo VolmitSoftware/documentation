@@ -307,7 +307,7 @@ Packages your project into a compressed `.iris` file.
 | -o | Obfuscate object names to UUID's |
 | -m | Minify JSON |
 
-### /iris studio tpstudio\(tps\)
+### /iris studio tpstudio\(tps, stp\)
 
 Teleports the player to the studio world
 
