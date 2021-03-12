@@ -15,6 +15,7 @@
 
 * [Getting Started with API](api/getting-started-with-the-api.md)
 * [Accessing the API](api/accessing-the-api.md)
+* [API Documentation](https://volmitsoftware.github.io/VehiclesPlus/)
 * [Javadocs](https://github.com/VolmitSoftware/VehiclesPlus/wiki)
 
 ## Links
