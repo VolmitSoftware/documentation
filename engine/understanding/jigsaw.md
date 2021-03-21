@@ -4,6 +4,12 @@ description: This page will go over Basics in Jigsaw
 
 # Jigsaw
 
+## Tutorial Video
+
+{% embed url="https://youtu.be/3Oiq6OEVQnE" caption="Iris Dimension: Jigsaw tutorial" %}
+
+## Astrash's written tutorial
+
 There is a tutorial by Astrash written in discord. Screenshots below.
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
