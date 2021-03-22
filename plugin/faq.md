@@ -103,6 +103,26 @@ Recommended command for less than 10 players:
 
 In this diagram you see what settings affect biome sizes. To make biomes larger, you can increase the zoom on the region's specific biomes [here](../engine/understanding/regions.md#4-biome-zooming), which will make the collection of biomes that are in a category larger. You can also change all biome & region sizes to be larger, this setting is found [here](../engine/understanding/dimensions.md#7-biome-and-region-zoom).
 
+## Why are my trees cut-off on the side?
+
+![Example of trees being cut-off](../.gitbook/assets/afbeelding%20%283%29.png)
+
+This is caused by your CPU overloading during generation. The way to prevent this is by limiting the CPU threadcount in your configuration `*/plugins/iris/setting.json`:
+
+```javascript
+"concurrency": {"threadCount": -1}
+```
+
+Try to find the amount of cores or threads your server has. \(The amount of threads is double the amount of cores.\) And enter around 70% of the number of threads \(2\*cores\) instead of `-1`. If you still notice your CPU maxing out, decrease the number until its no longer happening.
+
+{% hint style="warning" %}
+If your threadcount goes below 4, Iris will become quite slow. Below 2 is not acceptable.
+
+If your CPU is still maxing out at 2 or 4, you should look into improving your server hardware by either asking your server provider, moving to another or using a different PC \(if you're hosting locally\).
+{% endhint %}
+
+
+
 ## Support
 
 We offer support on our [Discord](https://discord.com/invite/3xxPTpT). Ask questions you cannot answer using the Wiki there.  
